@@ -28,6 +28,9 @@
 - Porém recebeu o nome de JavaScript por causa da grande fama de Java
 - JavaScript = JS = Vanilla JavaScript = ECMAScript
 - Criada para deixar as páginas web vivas (interativas)
+- Just-in-time compiled
+- Orientada a objetos
+- Criado em 1995
 
 - Exemplo:
     - javascript_03.js
@@ -36,11 +39,18 @@
 
 ### 4 - Onde o JavaScript é utilizado?
 
+**Onde o JavaScript é utilizado?**
+
+- Interagir com HTML e CSS (DOM)
+- Calcular, manipular e validar dados
+- Pode ser utilizado como linguagem serve-side (Node.js)
+- Linguagem base de grandes frameworks (React, Angularm Vue)
+
 - Exemplo:
     - javascript_04.js
 
 
-### 5 - Fazendo donloads do VSCode (editor de texto)
+### 5 - Fazendo donwloads do VSCode (editor de texto)
 
 - Exemplo:
     - javascript_05.js

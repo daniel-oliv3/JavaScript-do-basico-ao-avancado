@@ -82,7 +82,20 @@ NaN (Not A Number);
     - javascript_20
 
 
+### 21 - Tipo de dado: string
 
+**Strings**
+
+- String = texto;
+
+```js
+console.log(typeof ‘Isso é uma String’);
+console.log(typeof “Este texto aqui também”);
+console.log(typeof `E este também`); //(template literals)
+```
+
+- Exemplo:
+    - javascript_21
 
 
 

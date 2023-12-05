@@ -19,3 +19,9 @@ console.log("Divisão: 4 / 4 = ", 4 / 4);
 // resto
 console.log("Resto: 4 % 2 = ", 4 % 2);
 console.log("Resto: 5 % 2 = ", 5 % 2);
+
+
+
+//type
+console.log(typeof (2 + 4));
+

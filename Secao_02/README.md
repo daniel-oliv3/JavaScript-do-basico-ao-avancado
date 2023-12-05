@@ -67,9 +67,19 @@ console.log(5 + (2 * 4));
 
 
 
+### 20 - Conhecendo os special numbers
 
+**Numbers: Special Numbers**
 
+- Considerados números, mas não funcionam como números;
+```js
+Infinity;
+-Infinity;
+NaN (Not A Number);
+```
 
+- Exemplo:
+    - javascript_20
 
 
 

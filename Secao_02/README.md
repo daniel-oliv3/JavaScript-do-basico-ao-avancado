@@ -34,6 +34,46 @@
 **Number**
 
 - Obviamente este tipo trata de números;
-- console.log(typeof 13);
-- console.log(typeof 1.8);
-- console.log(typeof -5);
+```js
+console.log(typeof 13);
+console.log(typeof 1.8);
+console.log(typeof -5);
+```
+
+
+- Exemplo:
+    - javascript_18
+
+### 19 - Operações aritméticas com number
+
+- Operação mais feita com os números em JS;
+- E o resultado da operação aritmética produz um novo Number;
+```js
+console.log(2 + 2);
+console.log(2 * 4 - 3);
+console.log(8 / 4);
+//Funciona com a mesma da matemática;
+console.log(5 + (2 * 4));
+```
+
+- Exemplo:
+    - javascript_19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

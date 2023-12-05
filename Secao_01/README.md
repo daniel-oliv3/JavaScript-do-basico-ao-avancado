@@ -11,12 +11,12 @@
 ### 1 - Apresentação do curso
 
 - Exemplo:
-    - javascript_01.js
+    - javascript_01
 
 ### 2 - Introdução
 
 - Exemplo:
-    - javascript_02.js
+    - javascript_02
 
 
 ### 3 - O que é JavaScript?
@@ -33,7 +33,7 @@
 - Criado em 1995
 
 - Exemplo:
-    - javascript_03.js
+    - javascript_03
 
 
 
@@ -47,7 +47,7 @@
 - Linguagem base de grandes frameworks (React, Angularm Vue)
 
 - Exemplo:
-    - javascript_04.js
+    - javascript_04
 
 
 ### 5 - Fazendo donwloads do VSCode (editor de texto)
@@ -60,13 +60,13 @@
 
 
 - Exemplo:
-    - javascript_05.js
+    - javascript_05
 
 
 ### 6 - Como executar JS no navegador por arquivo
 
 - Exemplo:
-    - javascript_06.js
+    - javascript_06
 
 
 

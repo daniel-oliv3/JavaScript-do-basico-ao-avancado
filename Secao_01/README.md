@@ -116,6 +116,17 @@
 - Exemplo:
     - javascript_12
 
+### 13 - Indicações de Livros
+
+- JavaScript para Iniciantes - Aprenda a Programar JS de Forma Simples
+- 200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios
+- JavaScript: O Guia Definitivo
+- Lógica de Programação e Algoritmos com JavaScript
+- Estruturas de Dados e Algoritmos com JavaScript
+
+
+- Exemplo:
+    - javascript_13
 
 
 

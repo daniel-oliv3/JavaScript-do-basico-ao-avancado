@@ -52,6 +52,9 @@
 
 ### 5 - Fazendo donwloads do VSCode (editor de texto)
 
+- Visual Studio Code:
+    - Link: https://code.visualstudio.com/download
+
 - Exemplo:
     - javascript_05.js
 

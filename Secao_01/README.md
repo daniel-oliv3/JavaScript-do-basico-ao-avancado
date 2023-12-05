@@ -44,7 +44,7 @@
 - Interagir com HTML e CSS (DOM)
 - Calcular, manipular e validar dados
 - Pode ser utilizado como linguagem serve-side (Node.js)
-- Linguagem base de grandes frameworks (React, Angularm Vue)
+- Linguagem base de grandes frameworks (React, Angular, Vue)
 
 - Exemplo:
     - javascript_04
@@ -83,9 +83,13 @@
     - javascript_08
 
 
+### 9 - Como pesquisar problemas/dúvidas de código no Stackoverflow
 
+- Stackoverflow:
+    - Link: https://stackoverflow.com/
 
-
+- Exemplo:
+    - javascript_09
 
 
 

@@ -120,5 +120,24 @@ console.log("salada" + "de" + "fruta");
 
 
 
+### 23 - Tipo de dado: boolean
+
+**Booleans**
+
+- Serve para guardar um valor de uma comparação, por exemplo;
+- Os únicos valores possíveis são:
+- True (verdadeiro);
+- False (falso);
+```js
+console.log(5 > 2); //true
+console.log(3 > 10); //false
+```
+
+- Exemplo:
+    - javascript_23
+
+
+
+
 
 

@@ -96,6 +96,13 @@
 - Google:
     - Link: https://www.google.com/
 
+- Pesquisa:
+    - how to use style buttons css
+
+- Link: (Confiáveis)
+    - Link: https://www.w3schools.com/css/css3_buttons.asp
+    - Link: https://css-tricks.com/overriding-default-button-styles/
+
 - Exemplo:
     - javascript_10
 

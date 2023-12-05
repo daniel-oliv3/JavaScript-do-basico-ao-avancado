@@ -12,3 +12,37 @@
 
 - Exemplo:
     - javascript_01.js
+
+### 2 - Introdução
+
+- Exemplo:
+    - javascript_02.js
+
+
+### 3 - O que é JavaScript
+
+- Exemplo:
+    - javascript_03.js
+
+
+
+### 4 - Onde o JavaScript é utilizado?
+
+- Exemplo:
+    - javascript_04.js
+
+
+### 5 - Fazendo donloads do VSCode (editor de texto)
+
+- Exemplo:
+    - javascript_05.js
+
+
+
+
+
+
+
+
+
+

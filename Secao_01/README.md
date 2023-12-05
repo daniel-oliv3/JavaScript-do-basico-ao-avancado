@@ -19,7 +19,15 @@
     - javascript_02.js
 
 
-### 3 - O que é JavaScript
+### 3 - O que é JavaScript?
+
+**O que é JavaScript?**
+
+- É uma linguagem de programação de alto nível
+- Originalmente chamada de LiveScript
+- Porém recebeu o nome de JavaScript por causa da grande fama de Java
+- JavaScript = JS = Vanilla JavaScript = ECMAScript
+- Criada para deixar as páginas web vivas (interativas)
 
 - Exemplo:
     - javascript_03.js

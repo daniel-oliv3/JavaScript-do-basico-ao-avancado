@@ -29,3 +29,11 @@
     - javascript_17
 
 
+### 18 - Tipo de dado: number
+
+**Number**
+
+- Obviamente este tipo trata de números;
+- console.log(typeof 13);
+- console.log(typeof 1.8);
+- console.log(typeof -5);

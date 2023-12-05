@@ -91,7 +91,13 @@
 - Exemplo:
     - javascript_09
 
+### 10 - Como pesquisar problemas/dúvidas de código no Google
 
+- Google:
+    - Link: https://www.google.com/
+
+- Exemplo:
+    - javascript_10
 
 
 

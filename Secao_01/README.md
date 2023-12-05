@@ -106,7 +106,10 @@
 - Exemplo:
     - javascript_10
 
+### 11 - Minha sugestão para você acompanhar o curso
 
+- Exemplo:
+    - javascript_11
 
 
 

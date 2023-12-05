@@ -69,7 +69,10 @@
     - javascript_06
 
 
+### 7 - Como executar JS diretamente no navegador
 
+- Exemplo:
+    - javascript_07
 
 
 

@@ -74,5 +74,86 @@
 - Exemplo:
     - javascript_07
 
+### 8 - Maneira alterantiva de executar JS
+
+- JS Bin:
+    - Link: https://jsbin.com/?html,output
+
+- Exemplo:
+    - javascript_08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

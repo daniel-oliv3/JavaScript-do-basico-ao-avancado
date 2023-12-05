@@ -56,6 +56,12 @@ console.log(8 / 4);
 console.log(5 + (2 * 4));
 ```
 
+- `+` -> soma;
+- `-` -> subtração;
+- `/` -> divisão;
+- `*` -> multiplicação;
+- `%` -> resto;
+
 - Exemplo:
     - javascript_19
 

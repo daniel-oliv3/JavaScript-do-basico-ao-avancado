@@ -55,12 +55,18 @@
 - Visual Studio Code:
     - Link: https://code.visualstudio.com/download
 
+- Git Bash:
+    - Link: https://git-scm.com/downloads
+
+
 - Exemplo:
     - javascript_05.js
 
 
+### 6 - Como executar JS no navegador por arquivo
 
-
+- Exemplo:
+    - javascript_06.js
 
 
 

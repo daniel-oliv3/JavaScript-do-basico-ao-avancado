@@ -1,8 +1,0 @@
-
-
-console.log("Olá Mundo!");
-
-
-
-
-

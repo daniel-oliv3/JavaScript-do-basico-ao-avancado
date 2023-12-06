@@ -137,7 +137,20 @@ console.log(3 > 10); //false
     - javascript_23
 
 
+### 24 - Comparações com booleans
 
+**Booleans: comparações**
+
+- Maior que: `>`
+- Menor que: `<`
+- Maior ou igual: `>=`
+- Menor ou igual: `<=`
+- Igual: `==`
+- Diferente: `!=`
+- Idêntico: `===`
+
+- Exemplo:
+    - javascript_24
 
 
 

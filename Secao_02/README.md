@@ -154,3 +154,25 @@ console.log(3 > 10); //false
 
 
 
+### 25 - Operadores lógicos: teoria
+
+**Booleans:** Operadores lógicos
+
+- Por meio de uma comparação resultam em um Boolean
+- `&&` - and -> para ser true, os dois "lados" da comparação precisam
+ser true
+- `||` - or -> para ser true, basta um dos "lados" da comparação ser true;
+- `!` - not -> inverter os valores (true vira false);
+
+- Tabela verdade
+
+<p align="center">
+  <img alt="...." src="./src/tabela-verdade" width="70%">
+</p>
+
+- `&&` and
+- `||` - or 
+- `!` - not
+
+- Exemplo:
+    - javascript_25
